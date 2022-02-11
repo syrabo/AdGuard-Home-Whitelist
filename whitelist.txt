@@ -252,3 +252,5 @@
 # WhatsApp
 @@||whatsapp.net^$important
 @@||whatsapp.com^$important
+# Reddit
+@@||reddit.com^$important
