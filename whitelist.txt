@@ -290,3 +290,5 @@
 @@||lm.facebook.com
 @@||media4.giphy.com
 @@||l.facebook.com
+# Shazam
+@@||beacon.shazam.com
