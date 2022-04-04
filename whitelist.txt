@@ -292,3 +292,6 @@
 @@||l.facebook.com
 # Shazam
 @@||beacon.shazam.com
+# Zeitung
+@@||otz.de
+@@||tlz.de
