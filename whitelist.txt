@@ -183,6 +183,7 @@
 @@||device-metrics-us-2.amazon.com^$important
 @@||images-amazon.com^$important
 @@||amazonaws.com^$important
+@@||msh.amazon.co.uk^$important
 # Apple
 @@||gdmf.apple.com.akadns.net^$important
 @@||apple.com^$important
@@ -295,3 +296,17 @@
 # Zeitung
 @@||otz.de
 @@||tlz.de
+# Adobe
+@@||click.pstmrk.it^$important
+@@||sstats.adobe.com^$important
+@@||p.typekit.net^$important
+@@||dpm.demdex.net^$important
+@@||cc-api-data.adobe.io^$important
+# @@||adobe.com.ssl.d1.sc.omtrdc.net^$important
+# Sonstige
+@@||intensivzimmer^$important
+@@||cdn.tinypass.com^$important
+@@||buy.tinypass.com^$important
+@@||consentmanager.mgr.consensu.org^$important
+@@||msh.amazon.co.uk^$important
+@@||www.uriports.com^$important
